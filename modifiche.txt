@@ -1,7 +1,0 @@
-Agrigento: cielo sereno
-Alessandria: cielo prevalentemente sereno
-Alghero: parzialmente nuvoloso
-Ancona: nuvoloso
-Padova: nebbia
-Udine: nebbia con brina
-Pisa: lievi rovesci
